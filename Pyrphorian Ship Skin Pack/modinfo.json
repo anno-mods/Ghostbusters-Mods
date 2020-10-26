@@ -1,0 +1,62 @@
+
+  "Version": "1",
+  "ModID": "Ghostbuster_PyrSkinPack",
+  "IncompatibleIds": [
+  ],
+  "ModDependencies": [
+  ],
+  "Category": {
+    "Chinese": null,
+    "English": "Visual",
+    "French": null,
+    "German": "Optisch",
+    "Italian": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Pyrphorian Ship Skin Pack",
+    "French": null,
+    "German": "Pyrphorisches Schiff Texture Paket",
+    "Italian": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Adds an pyrphorian skin for every standard steamship.",
+    "French": null,
+    "German": null,
+    "Italian": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": [
+  ],
+  "CreatorName": "Ghostbuster",
+  "CreatorContact": "https://github.com/Ghstbstr"
+}
