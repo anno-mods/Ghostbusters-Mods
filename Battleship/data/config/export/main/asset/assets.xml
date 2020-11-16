@@ -477,7 +477,7 @@
               <ConditionPlayerCounter>
                 <PlayerCounter>PopulationByLevel</PlayerCounter>
                 <Context>15000004</Context>
-                <CounterAmount>1500</CounterAmount>
+                <CounterAmount>3000</CounterAmount>
               </ConditionPlayerCounter>
             </Values>
           </TriggerCondition>
