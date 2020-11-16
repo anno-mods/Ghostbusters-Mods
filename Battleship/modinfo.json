@@ -1,5 +1,5 @@
 
-  "Version": "1",
+  "Version": "1.4",
   "ModID": "Ghostbuster_Battleship",
   "IncompatibleIds": [
   ],
@@ -31,7 +31,7 @@
   },
   "Description": {
     "Chinese": null,
-    "English": "Adds a new steam based Warship with custom mesh and textures for the player to be build in the Steam Shipyard when reaching 1500 Investors.
+    "English": "Adds a new steam based Warship with custom mesh and textures for the player to be build in the Steam Shipyard when reaching 3000 Investors.
     The design features high hitpoints and damage ratings, but rather slow movement. It's like a real beefy Battleship, and not a 'cruiser'.
     
     Stats: 12000 Health
